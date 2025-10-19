@@ -1,0 +1,38 @@
+# Libft Project Specific files #
+
+libft.a
+
+# Ignore local test files #
+
+main.c
+test.c
+tests.c
+
+# General C Build Artifacts #
+
+# Ignore all object files: #
+
+*.o
+
+# Ignore dependency files Makefiles might generate: #
+
+*.d
+
+# Ignore the default executable: #
+
+a.out
+
+# Common OS and Editor Junk #
+
+# macOS system files: #
+
+.DS_Store
+
+# Ignore Visual Studio Code editor-specific (settings and cache): #
+
+.vscode
+
+# Ignore Vim swap files: #
+
+*.swp
+*.swo
